@@ -158,5 +158,4 @@ python scripts/get_vendor_summary.py
 **Gopal Rawat**  
 Data Analyst  
 📧 Email: gopalrawwatt@gmail.com
-
 🔗 [LinkedIn](https://www.linkedin.com/in/gopalrawat/)
