@@ -1,5 +1,5 @@
 
-# 🧾 Vendor Performance Analysis – Retail Inventory & Sales
+# 🧾 	8.	Strategic Supplier Analysis for Business Growth – Retail Inventory & Sales
 
 _Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Tableau._
 
