@@ -1,7 +1,7 @@
 
-# 🧾 	8.	Strategic Supplier Analysis for Business Growth – Retail Inventory & Sales
+# 🧾 	Strategic Supplier Analysis for Business Growth – Retail Inventory & Sales
 
-_Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Tableau._
+_Analyzing supplier efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Tableau._
 
 ---
 
