@@ -2,9 +2,11 @@
 # 🧾 	Strategic Supplier Analysis for Business Growth – Retail Inventory & Sales
 
 
+
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-Desktop-orange?logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=Microsoft-SQL-Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+
 
 
 _Analyzing supplier efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Tableau._
